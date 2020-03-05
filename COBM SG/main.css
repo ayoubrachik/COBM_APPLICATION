@@ -1,0 +1,96 @@
+#exportContent{
+
+    
+    background-image:url('dist/img/logo_cobm.png.png');
+
+}
+.table
+{
+    text-align: center !important;
+    
+}
+thead tr
+{
+    text-align: center;
+    
+
+        
+}
+table td
+{
+    
+    text-align: center;
+}
+.sec_table
+{
+    margin: 15px auto;
+    text-align: center;
+}
+.sec_table2{
+    text-align: center !important;
+}
+.sec_table td
+{
+    text-align: center;
+}
+table button
+{
+   display: block;
+  
+}
+.sec_table  th
+{
+    color: black;
+    background-color: white;
+}
+.date_fin_active
+{
+    color: white;
+    background-color: green;
+    padding: 0px 5px;
+    border-radius: 5px;
+    
+}
+.date_fin_expire
+{
+    color: white;
+    background-color: red;
+    padding: 0px 5px;
+    border-radius: 5px;
+}
+table a
+{
+    display: block;
+    margin: 8px 0;
+}
+.fa-print
+{
+    color: green;
+}
+.fa-trash-alt
+{
+    color: red;
+    
+}
+td{
+    padding:0px !important;
+}
+#myTable_filter
+{
+    margin-right:2%;
+}
+th{
+    padding:0px !important;
+}
+*{
+    
+    font-size:12px !important;
+    font-weight: 600;
+    
+   
+    
+}
+.dataTables_length
+{
+    margin-left: 20px;
+}
